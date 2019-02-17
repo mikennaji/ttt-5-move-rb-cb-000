@@ -9,4 +9,8 @@ input = gets.chomp
 index =input_to_index(input)
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 move(board, index)
+<<<<<<< HEAD
 display_board(board)
+=======
+display_board(board
+>>>>>>> b4b77c3c5996a25f1f9df05347a8d8ecae7ad37b
